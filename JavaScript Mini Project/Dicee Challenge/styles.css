@@ -1,0 +1,30 @@
+h1 {
+  color: red;
+  font-size: 3em;
+}
+
+body {
+  background-color: gray;
+  text-align: center;
+}
+
+.player {
+  display: flex;
+  flex-direction: row;
+  padding-left: 30%;
+  text-align: center;
+}
+.player div{
+  padding: 30px;
+  }
+
+label {
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;
+}
+
+img{
+  height : auto;
+  width : 200px;
+}
